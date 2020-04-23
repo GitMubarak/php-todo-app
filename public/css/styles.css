@@ -1,0 +1,33 @@
+body {
+    font-family: 'arial';
+}
+
+.list-group-item {
+    font-size: 26px;
+}
+
+.footer-item {
+    padding: 10px;
+    padding-left: 20px;
+}
+
+a.list-group-item.completed {
+    color: #CCC;
+}
+
+a.list-group-item>.complete-task-span {
+    border: 1px solid #EAEAEA;
+    width: 40px;
+    display: inline-block;
+}
+
+a.list-group-item.completed>.complete-task-span {
+    background-image: url("../img/ok.png");
+    background-size: 100%;
+}
+
+span.badge {
+    color: #FF0000;
+    background: #FFF;
+    font-size: 28px;
+}

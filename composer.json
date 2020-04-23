@@ -1,0 +1,15 @@
+{
+    "name": "rajib/wd-todo-list",
+    "authors": [
+        {
+            "name": "Md. Hossni Mubarak",
+            "email": "mhmrajib@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Tasks\\": "DbClass/"
+		}
+	}
+}
