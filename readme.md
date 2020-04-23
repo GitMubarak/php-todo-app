@@ -1,8 +1,8 @@
-\*\* To-Do Application
+# To-Do Application
 
 This is a simple To-Do application
 
-\*\* Technologies
+# Technologies
 
 - PHP (Raw with OOP)
 - MySQL
